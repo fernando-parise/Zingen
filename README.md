@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+Nesse projeto iremos desenvolver uma Landing Page completa e responsiva de um aplicativo de Karaokê!
 
 - [Acesse o projeto finalizado, online](https://fernando-parise.github.io/Zingen/)
 
