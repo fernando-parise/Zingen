@@ -1,0 +1,38 @@
+:root{
+
+    /* Colors */
+    --red:#E3646E;
+    --purple:#BB72E9;
+    --blue:#3996DB;
+    --yellow:#EABD5F;
+    --gray-100:#0D0E11;
+    --gray-200:#16181D;
+    --gray-300:#292C34;
+    --gray-400:#878EA1;
+    --gray-500:#C0C4CE;
+    --gray-600:#E2E4E9;
+
+    /* Fonts */
+    --font-family-asap: "Asap", sans-serif;
+    --title-lg:bold 56px/120% var(--font-family-asap);
+
+    --font-family-inconsolata:"Inconsolata", monospace;
+    --subitle:400 20px/120% var(--font-family-inconsolata);
+}   
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.icon-sm {
+  width: 25px;
+  height: 25px;
+}
