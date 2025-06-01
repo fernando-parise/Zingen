@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de desafio de portfólio de desenvolvedor na Rocketseat.
+Landing Page completa e responsiva de um aplicativo de Karaokê.
 </p>
 
 <p align="center">
